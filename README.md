@@ -1,6 +1,6 @@
-![Logo do projeto](https://github.com/Mauricio3333/lista-de-tarefas/blob/main/screenshot/screen projeto.png)
+![Logo do projeto](https://github.com/Mauricio3333/lista-de-tarefas/blob/main/screenshot/screen%projeto.png)
 <div align="center">
-    <a href="https://lista-de-tarefas-rho-liard.vercel.app/" target="_blank">Visualizar o projeto</a>
+    <a href="#" target="_blank">Visualizar o projeto</a>
 </div>
 
 # Desafio Frontend Mentor - Lista de Produtos com Carrinho de Compras
