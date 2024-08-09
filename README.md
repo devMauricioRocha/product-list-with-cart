@@ -1,3 +1,8 @@
+![Logo do projeto](https://github.com/Mauricio3333/lista-de-tarefas/blob/main/screenshot/screen projeto.png)
+<div align="center">
+    <a href="https://lista-de-tarefas-rho-liard.vercel.app/" target="_blank">Visualizar o projeto</a>
+</div>
+
 # Desafio Frontend Mentor - Lista de Produtos com Carrinho de Compras
 
 Este projeto foi desenvolvido para o desafio do Frontend Mentor, onde o objetivo é construir uma lista de produtos com um carrinho de compras funcional, seguindo o design fornecido o mais próximo possível. Os dados dos produtos são carregados a partir de um arquivo JSON local.
