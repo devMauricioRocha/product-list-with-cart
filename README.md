@@ -1,6 +1,6 @@
 ![Logo do projeto](https://github.com/devMauricioRocha/product-list-with-cart/blob/main/screenshot/screen%20projeto.png)
 <div align="center">
-    <a href="#" target="_blank">Visualizar o projeto</a>
+    <a href="https://confeitaria-charmosa.vercel.app/" target="_blank">Visualizar o projeto</a>
 </div>
 
 # Desafio Frontend Mentor - Lista de Produtos com Carrinho de Compras
