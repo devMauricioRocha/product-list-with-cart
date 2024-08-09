@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ativar-produto{
+    outline: 4px solid hsl(14, 86%, 42%);
+}
+
+.close{
+    display: none;
+}
+
