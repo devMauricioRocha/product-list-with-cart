@@ -211,9 +211,19 @@ fundoCard.addEventListener("click", (e) => { //Fechar o Card quando clicar fora 
     }
 })
 
+const resetarDisplay = () => {
+    cart = []
+    const btnAddCart = document.querySelectorAll(".add-cart")
+    btnAddCart.forEach(btn => {
+        btn.classList.remove("hidden")
+        btn.nextElementSibling.classList.add("hidden")
+    })
+    atualizarDisplay()
+}
+
 btnConfirmOrder.addEventListener("click", () => { // Confirmação da compra
     fundoCard.classList.add("close")
-    console.log(cart);
+    resetarDisplay()
     setTimeout(() => {
         alert(`Parabens Compra Realizada!!`)
     }, 50)
