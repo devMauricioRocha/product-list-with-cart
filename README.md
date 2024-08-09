@@ -1,4 +1,4 @@
-![Logo do projeto](https://github.com/Mauricio3333/lista-de-tarefas/blob/main/screenshot/screen%projeto.png)
+![Logo do projeto](https://github.com/devMauricioRocha/product-list-with-cart/blob/main/screenshot/screen%20projeto.png)
 <div align="center">
     <a href="#" target="_blank">Visualizar o projeto</a>
 </div>
