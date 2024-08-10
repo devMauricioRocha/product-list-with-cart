@@ -1,4 +1,4 @@
-![Logo do projeto](https://github.com/devMauricioRocha/product-list-with-cart/blob/main/screenshot/screen%20projeto.png)
+![Logo do projeto](./preview.jpg)
 <div align="center">
     <a href="https://confeitaria-charmosa.vercel.app/" target="_blank">Visualizar o projeto</a>
 </div>
