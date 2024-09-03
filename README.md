@@ -34,8 +34,8 @@ Este projeto foi desenvolvido para o desafio do Frontend Mentor, onde o objetivo
 ### 1. Clonar o Repositório
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/devMauricioRocha/product-list-with-cart.git
+   cd product-list-with-cart
    ```
 
 ### 2. Instalar Dependências
